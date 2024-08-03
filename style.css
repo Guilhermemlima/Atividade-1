@@ -1,0 +1,21 @@
+li {
+    color: green;
+    
+}
+
+a{
+    color: rgb(49, 226, 14);
+}
+
+
+.info{
+    color: red;
+    text-align: center;
+
+}
+img{
+    grid-row-start: auto;
+    padding-left: 1000px;
+    width: 200px;
+    height: 200px;
+}
